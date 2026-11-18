@@ -32,7 +32,7 @@ const RECIPIENT_NAME = "Echa Novelia Cantika"; // ← GANTI NAMA
 const MUSIC_TRACKS = [
   {
     title:  "Monokrom",                  // ← GANTI JUDUL LAGU
-    artist: "Sal Priadi",                   // ← GANTI NAMA ARTIS
+    artist: "Pamungkas",                   // ← GANTI NAMA ARTIS
     src:    "assets/music/song1.mp3",    //   (nama file mp3 — jangan diubah kecuali nama filenya beda)
     cover:  "assets/music/song1.jpeg",   //   (nama file cover — jangan diubah kecuali nama filenya beda)
     startTime: 0,                           // ← MULAI DARI DETIK KE BERAPA
